@@ -30,7 +30,7 @@
 	"slides": [
 		{
 			"src": {
-				"img": "img/project-preview/tawny.jpg",
+				"img": "img/project-preview/tawny.png",
 				"title": "Mr Neely",
 				"text": "Hello World",
 				"fit": "cover"
@@ -40,7 +40,7 @@
 		},
 		{
 			"src": {
-				"img": "img/project-preview/tawny.jpg",
+				"img": "img/project-preview/tawny.png",
 				"title": "Mr Neely",
 				"text": "Mr Neely",
 				"fit": "cover"
