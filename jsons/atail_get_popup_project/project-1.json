@@ -1,0 +1,48 @@
+{
+	"status": "success",
+	"title": "Hubista Branding Project",
+	"link": "projects/Hubista-branding-project.html",
+	"content": "Hubista is an upcoming online platform that connects people who offer skilled talent—the sellers—with customers willing to hire them—the buyers. They came to our team at Hyper Island with a raw vision, hoping that we would help them shape and transform their business idea into a tangible brand that speaks to both audiences.",
+	"date_finish": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Finished </span><span class=\"atail-proj-date-value\">- 23 Jun 2016</span></span>",
+	"date_start": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Started </span><span class=\"atail-proj-date-value\">- 22 Jun 2016</span></span>",
+	"thumbnail": "<img width=\"1200\" height=\"911\" src=\"img/Chinese-girl-posing.jpeg\" alt=\"pexels-photo-69494\" />",
+	"thumbnail_url": "img/Chinese-girl-posing.jpeg",
+	"positions": [
+		{
+		  "title": "Elton Gutoch",
+		  "url": "Developer"
+		},
+		{
+		  "title": "Nils Andersson",
+		  "url": "Developer"
+		},
+		{
+		  "title": "Jasmine",
+		  "url": "QA"
+		}
+	  ],
+	"token": "865fc8f5ec",
+	"participants": "<span class=\"post-content-footer-title\">Participants</span>",
+	"slides": [
+		{
+			"src": {
+				"img": "img/project-preview/Bard-bags-collection.jpeg",
+				"title": "Mr Neely",
+				"text": "Hello World",
+				"fit": "cover"
+			},
+			"fit": "cover",
+			"type": "image"
+		},
+		{
+			"src": {
+				"img": "img/project-preview/Bard-bags-collection.jpeg",
+				"title": "Mr Neely",
+				"text": "Mr Neely",
+				"fit": "cover"
+			},
+			"fit": "cover",
+			"type": "image"
+		}
+	]
+}
