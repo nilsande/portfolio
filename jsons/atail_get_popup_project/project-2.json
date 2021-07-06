@@ -2,39 +2,55 @@
 	"status": "success",
 	"title": "Spotify Music Quiz",
 	"link": "projects/Spotify-music-quiz.html",
-	"content": "Here is where I really need “fast” lenses, good zoom lenses, patience and luck. Feel the magic of the moment. A photographer portfolio fully displays his way to see the world and feel its beauty. Photography opens my eyes and my soul to exclusively fantastic things. Open your eyes and don't miss any beautiful detail!\r\n",
-	"date": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Finished </span><span class=\"atail-proj-date-value\">- 22 Jun 2016</span></span>",
-	"positions": {
-		"title": "Nils Andersson",
-		"url": "Developer"
-	  },
+	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+	"date_finish": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Finished </span><span class=\"atail-proj-date-value\">- 23 Jun 2016</span></span>",
+	"date_start": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Started </span><span class=\"atail-proj-date-value\">- 22 Jun 2016</span></span>",
+	"thumbnail": "<img width=\"1200\" height=\"911\" src=\"img/Hubista.jpeg\" alt=\"pexels-photo-69494\" />",
+	"thumbnail_url": "img/Hubista.jpeg",
+	"positions": [
+		{
+		  "title": "Nils Andersson",
+		  "url": "Creator"
+		},
+		{
+		  "title": "Anne Obel",
+		  "url": "Creator"
+		},
+		{
+		  "title": "Tor Neely",
+		  "url": "Creator"
+		},
+		{
+			"title": "Johanna Lööf",
+			"url": "Creator"
+		},
+		{
+			"title": "Hanna Larsson",
+			"url": "Creator"
+		}
+	  ],
 	"token": "865fc8f5ec",
 	"participants": "<span class=\"post-content-footer-title\">Participants</span>",
 	"slides": [
 		{
-		  "src": {
-			"img": "http://localhost/wp/wp-content/uploads/2016/05/bg-5-1.jpg",
-			"title": "",
-			"text": "",
-			"fit": "contain"
-		  },
-		  "fit": "contain",
-		  "type": "image"
+			"src": {
+				"img": "img/project-preview/Duolingo.jpeg",
+				"title": "Mr Neely",
+				"text": "Hello World",
+				"fit": "cover"
+			},
+			"fit": "cover",
+			"type": "image"
 		},
 		{
-		  "src": {
-			"img": "http://localhost/wp/wp-content/uploads/2016/07/Eddy-Need-Remix-mp3-image.jpg",
-			"title": "Hello",
-			"text": "Hello",
-			"fit": "cover"
-		  },
-		  "fit": "cover",
-		  "type": "image"
-		},
-		{
-		  "src": "https://www.youtube.com/embed//XTQjLZJXyaE",
-		  "type": "video"
+			"src": {
+				"img": "img/project-preview/Duolingo.jpeg",
+				"title": "Mr Neely",
+				"text": "Mr Neely",
+				"fit": "cover"
+			},
+			"fit": "cover",
+			"type": "image"
 		}
-	  ]
-
+	]
 }
