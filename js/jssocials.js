@@ -516,7 +516,7 @@
         line: {
             label: "LINE",
             logo: "fa fa-plus",
-            shareUrl: "{}",
+            shareUrl: "/projects/{url}",
             countUrl: ""
         }
 

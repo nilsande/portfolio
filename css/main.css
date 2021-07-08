@@ -7207,6 +7207,11 @@ main .main-scroll > [id^='huge_it_google'] {
   color: #e9e8ee;
 }
 
+.nav-list > li > a .nav-list-counters {
+  display: none;
+  color: #e9e8ee;
+}
+
 @media (min-width: 992px) {
   .nav-list > li > a .nav-list-counter {
     position: absolute;
