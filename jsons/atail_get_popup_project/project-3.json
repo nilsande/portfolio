@@ -7,26 +7,7 @@
 	"date_start": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Started </span><span class=\"atail-proj-date-value\">- 22 Jun 2016</span></span>",
 	"thumbnail": "<img width=\"1200\" height=\"911\" src=\"img/hubista.png\" alt=\"pexels-photo-69494\" />",
 	"thumbnail_url": "img/hubista.png",
-	"positions": [
-		{
-		  "title": "Nils Andersson",
-		  "url": "Creator"
-		},
-		{
-		  "title": "Vilma Linglunde",
-		  "url": "Creator"
-		},
-		{
-		  "title": "Sofia Larsson",
-		  "url": "Creator"
-		},
-		{
-			"title": "Andrea Uruqueta",
-			"url": "Creator"
-		}
-	  ],
 	"token": "865fc8f5ec",
-	"participants": "<span class=\"post-content-footer-title\">Participants</span>",
 	"slides": [
 		{
 			"src": {
