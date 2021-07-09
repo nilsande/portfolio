@@ -257,7 +257,7 @@ ul ol li:before, ol ul li:before, ol li:before {
 }
 
 .slider-next-slide svg, .slider-prev-slide svg, .full-post-prev-slide svg, .full-post-next-slide svg {
-    fill: #4d4f54;
+    fill: #000000; 
 }
 
 .full-post-animate-box .animate-box-left, .full-post-animate-box .animate-box-right {

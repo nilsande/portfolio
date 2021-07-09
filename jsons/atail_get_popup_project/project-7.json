@@ -10,24 +10,8 @@
 	"token": "865fc8f5ec",
 	"slides": [
 		{
-			"src": {
-				"img": "img/project-preview/arttolife.gif",
-				"title": "Art to Life",
-				"text": "Art to Life",
-				"fit": "cover"
-			},
-			"fit": "cover",
-			"type": "image"
-		},
-		{
-			"src": {
-				"img": "img/project-preview/arttolife.gif",
-				"title": "Art to Life",
-				"text": "Art to Life",
-				"fit": "cover"
-			},
-			"fit": "cover",
-			"type": "image"
+			"src": "https://www.youtube.com/embed//St-qjfNLCAk",
+			"type": "video"
 		}
 	]
 }
