@@ -2465,7 +2465,7 @@
 
 	            openInfo.className = 'full-post-mobile-info';
 	            openInfo.setAttribute('data-action', 'full-post-show-info');
-	            openInfo.innerHTML = 'info';
+	            openInfo.innerHTML = '&#8679;';
 
 	            mobileMenu.appendChild(openInfo);
 	            mobileMenu.appendChild(socials);

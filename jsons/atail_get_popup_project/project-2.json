@@ -10,20 +10,14 @@
 	"token": "865fc8f5ec",
 	"slides": [
 		{
-			"src": {
-				"img": "img/project-preview/duolingo.png",
-				"title": "Mr Neely",
-				"text": "Hello World",
-				"fit": "cover"
-			},
-			"fit": "cover",
-			"type": "image"
+			"src": "https://player.vimeo.com/video/573913258", 
+			"type": "video"
 		},
 		{
 			"src": {
-				"img": "img/project-preview/duolingo.png",
+				"img": "img/spotify/spotify.png",
 				"title": "Mr Neely",
-				"text": "Mr Neely",
+				"text": "Hello World",
 				"fit": "cover"
 			},
 			"fit": "cover",
