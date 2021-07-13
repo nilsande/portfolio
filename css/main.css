@@ -6274,7 +6274,7 @@ span[data-action="show-nav"] > span:after, span[data-action="close-nav"] > span:
 
 .description-table,
 figure {
-  margin: 34px 0 40px;
+  margin: 34px 0 25px;
   padding: 0;
 }
 
@@ -7546,7 +7546,7 @@ h5 {
   letter-spacing: -.75px;
   line-height: 1.2;
   margin-bottom: 12px;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 @media (min-width: 992px) {
@@ -12513,6 +12513,8 @@ main .main-scroll .intro-demo-wrapper {
 .intro-title {
   margin-top: 0;
 }
+
+
 
 @media (max-width: 991px) {
   .intro-title {

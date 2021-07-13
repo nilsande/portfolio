@@ -256,8 +256,9 @@ ul ol li:before, ol ul li:before, ol li:before {
     background-color: #222527;
 }
 
-.slider-next-slide svg, .slider-prev-slide svg, .full-post-prev-slide svg, .full-post-next-slide svg {
-    fill: #000000; 
+.slider-next-slide svg, .slider-prev-slide svg, .full-post-prev-slide svg, .full-post-next-slide svg { 
+    fill: rgb(0 0 0);
+    stroke: rgb(140 140 140);
 }
 
 .full-post-animate-box .animate-box-left, .full-post-animate-box .animate-box-right {
