@@ -2265,9 +2265,9 @@
 	                var startDate = result.date_start ? result.date_start : '';
 	                var finishDate = result.date_finish ? result.date_finish : '';
 
-	                _this6.contentHeader.innerHTML = "<h4>" + result.title + "</h4>" + startDate + finishDate + "<p>" + result.content + "</p> <h6> &nbsp; Full Case Study: </h6>";
-
-	                var footerString = result.positions ? result.participants : '';
+					_this6.contentHeader.innerHTML = "<h4>" + result.title + "</h4>" + startDate + finishDate + "<p>" + result.content + "</p> <h6><a href=" + result.link + ">Case Study +</a></h6>";
+	                
+					var footerString = result.positions ? result.participants : '';
 
 	                var positions = result.positions;
 

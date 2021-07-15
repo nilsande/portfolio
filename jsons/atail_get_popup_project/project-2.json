@@ -1,7 +1,7 @@
 {
 	"status": "success",
 	"title": "Spotify Music Quiz",
-	"link": "spotify-music-quiz.html",
+	"link": "/projects/spotify-music-quiz.html",
 	"content":"The UX/UI challenge, as given by D&AD - Young Blood Awards, was to get listeners to soundtrack and share their life through Spotify. Our team was to build a feature within the app to help people easily share their favourite music and get people talking.",
 	"date_finish": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Finished </span><span class=\"atail-proj-date-value\">- 21 Mar 2021</span></span>",
 	"date_start": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Started </span><span class=\"atail-proj-date-value\">- 20 Mar 2021</span></span>",

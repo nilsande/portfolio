@@ -5499,12 +5499,13 @@ blockquote {
   margin: 0;
   line-height: 1.61;
   margin-bottom: 30px;
-  max-width: 520px;
+  max-width: 720px;
 }
 
 blockquote p {
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: bold;
+  font-style: italic;
 }
 
 @media (min-width: 768px) {
