@@ -9,10 +9,6 @@
 	"thumbnail_url": "img/hubista.png",
 	"token": "865fc8f5ec",
 	"slides": [
-			{
-				"src": "https://player.vimeo.com/video/575721496",
-				"type": "video"
-			  },
 		{
 			"src": {
 				"img": "img/duolingo/mockup2.png",
@@ -22,6 +18,10 @@
 			},
 			"fit": "cover",
 			"type": "image"
-		}
+		},
+		{
+			"src": "https://player.vimeo.com/video/575721496",
+			"type": "video"
+		  }
 	]
 }
