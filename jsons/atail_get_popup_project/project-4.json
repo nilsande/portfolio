@@ -21,13 +21,27 @@
 		},
 		{
 			"src": {
-				"img": "img/project-preview/duolingo.png",
+				"img": "img/duolingo/transform.gif",
 				"title": "Mr Neely",
 				"text": "Mr Neely",
 				"fit": "cover"
 			},
 			"fit": "cover",
 			"type": "image"
-		}
+		},
+		{
+			"src": {
+				"img": "img/duolingo/mockup.gif",
+				"title": "Mr Neely",
+				"text": "Mr Neely",
+				"fit": "cover"
+			},
+			"fit": "cover",
+			"type": "image"
+		},
+		{
+			"src": "https://player.vimeo.com/video/574488654",
+			"type": "video"
+		  }
 	]
 }

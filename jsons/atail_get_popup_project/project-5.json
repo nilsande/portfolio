@@ -21,7 +21,17 @@
 		},
 		{
 			"src": {
-				"img": "img/project-preview/pasparet.png",
+				"img": "img/pasparet/figma.png",
+				"title": "På Spåret",
+				"text": "På Spåret Filter Game",
+				"fit": "cover"
+			},
+			"fit": "cover",
+			"type": "image"
+		},
+		{
+			"src": {
+				"img": "img/pasparet/sparks.png",
 				"title": "På Spåret",
 				"text": "På Spåret Filter Game",
 				"fit": "cover"
