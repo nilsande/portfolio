@@ -10,10 +10,6 @@
 	"token": "865fc8f5ec",
 	"slides": [
 		{
-			"src": "https://player.vimeo.com/video/573913258", 
-			"type": "video"
-		},
-		{
 			"src": {
 				"img": "img/spotify/spotify.png",
 				"title": "Mr Neely",
@@ -22,6 +18,10 @@
 			},
 			"fit": "cover",
 			"type": "image"
+		},
+		{
+			"src": "https://player.vimeo.com/video/573913258", 
+			"type": "video"
 		}
 	]
 }

@@ -7,27 +7,5 @@
 	"date_start": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Started </span><span class=\"atail-proj-date-value\">- 10 Jun 2020</span></span>",
 	"thumbnail": "<img width=\"1200\" height=\"911\" src=\"img/hubista.png\" alt=\"pexels-photo-69494\" />",
 	"thumbnail_url": "img/karmamobil.png",
-	"token": "865fc8f5ec",
-	"slides": [
-		{
-			"src": {
-				"img": "img/project-preview/karmamobil.png",
-				"title": "Karma Mobil UX/UI",
-				"text": "Karma Mobil UX/UI",
-				"fit": "cover"
-			},
-			"fit": "cover",
-			"type": "image"
-		},
-		{
-			"src": {
-				"img": "img/project-preview/karmamobil.png",
-				"title": "Karma Mobil UX/UI",
-				"text": "Karma Mobil UX/UI",
-				"fit": "cover"
-			},
-			"fit": "cover",
-			"type": "image"
-		}
-	]
+	"token": "865fc8f5ec"
 }
