@@ -4637,6 +4637,9 @@ th {
   .row-col-12 > .col-lg-push-4 {
     left: 33.33333%;
   }
+  .row-col-12 > .col-lg-push-45 {
+    left: 36%;
+  }
   .row-col-12 > .col-lg-push-5 {
     left: 41.66667%;
   }
