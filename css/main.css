@@ -5673,7 +5673,7 @@ blockquote p {
 }
 
 .page-numbers.current {
-  color: #ee4758;
+  color: #302b63;
 }
 
 .blog-promo-box {
@@ -6723,7 +6723,7 @@ main .main-scroll > [id^='huge_it_google'] {
     -webkit-transform: translate(50%, 100%);
             transform: translate(50%, 100%);
     opacity: 0;
-    background-color: #ee4758;
+    background-color: #302b63;
   }
   .atail-header-opened nav, .atail-header-opened
   nav.row {
@@ -7227,7 +7227,7 @@ main .main-scroll > [id^='huge_it_google'] {
 
 @media (min-width: 992px) {
   .nav-list > li > a:hover {
-    color: #ee4758;
+    color: #302b63;
   }
 }
 
@@ -7235,7 +7235,7 @@ main .main-scroll > [id^='huge_it_google'] {
   .nav-list > li:hover.menu-item-has-children {
     -webkit-transition: background-color 0s linear .1s;
     transition: background-color 0s linear .1s;
-    background: linear-gradient(25deg,#d64c7f,#ee4758 50%);
+    background: linear-gradient(25deg,#d64c7f,#302b63 50%);
   }
 }
 
@@ -7274,7 +7274,7 @@ main .main-scroll > [id^='huge_it_google'] {
     -webkit-transform: translateY(-200%);
             transform: translateY(-200%);
     opacity: 1;
-    background: linear-gradient(25deg,#d64c7f,#ee4758 50%);  }
+    background: linear-gradient(25deg,#d64c7f,#302b63 50%);  }
   .nav-list > li > ul li {
     -webkit-transition: opacity 0.2s ease;
     transition: opacity 0.2s ease;
@@ -8405,7 +8405,7 @@ p > img {
   height: 100%;
   -webkit-transition: width .6s ease;
   transition: width .6s ease;
-  background: linear-gradient(25deg,#d64c7f,#ee4758 50%);  -webkit-backface-visibility: hidden;
+  background: linear-gradient(25deg,#0f0c29,#302b63 50%);  -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
 }
 
@@ -9227,11 +9227,11 @@ p > img {
 }
 
 .all-atail-projects-category ul a:hover {
-  color: #ee4758;
+  color: #302b63;
 }
 
 .all-atail-projects-category ul a.active {
-  color: #ee4758;
+  color: #675ebf;
 }
 
 .all-atail-projects > div > div {
@@ -12021,7 +12021,7 @@ main .main-scroll > img {
     color: #4d4f54;
   }
   .sides a:hover {
-    color: #ee4758;
+    color: #302b63;
   }
 }
 
@@ -12430,7 +12430,7 @@ main .main-scroll .intro-demo-wrapper {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #ee4758;
+  background-color: #302b63ad;
   border-right: 1px solid #edf5f8;
   opacity: .8;
   z-index: -1;
