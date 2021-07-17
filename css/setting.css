@@ -266,7 +266,7 @@ ul ol li:before, ol ul li:before, ol li:before {
 }
 
 a.button:link, button, input[type^="submit"], input[type^="button"], button:not([data-action^="close-nav"]) {
-    background-color: #675ebf;
+    background-color: #ffffff;
     color: #4d4f54;
     border: 1px solid #4d4f54;
 }
