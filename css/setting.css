@@ -86,7 +86,7 @@ a, .post-content-info > a, .post-content-likes .blog-count-likes, .post-content-
 }
 
 .atail-slider h1 a:hover, .atail-slider-item .blog-author span:hover, .atail-slider-item .blog-date span:hover, a:hover, .side-content a:hover, .blog-category a:hover, a.blog-date:hover, .content-info-date a:hover, .post-content-info > a.blog-category-link:hover, .post-content-likes .blog-count-likes:hover, .post-content-tags a[rel="tag"]:hover, .post-sidebar .widget li a:hover {
-    color: #302b63;
+    color: #675ebf;
 }
 
 .comment-navigation > h2,
@@ -99,7 +99,7 @@ a.prev.page-numbers,
 
 @media (min-width: 992px) {
     .nav-list > li ul a span:first-child {
-        color: #e9e8ee;
+        color: #dedede;
     }
 
     .nav-list {
@@ -119,7 +119,7 @@ a.prev.page-numbers,
     }
 
     .nav-list > li > a > .nav-list-counter {
-        color: #e9e8ee;
+        color: #dedede;
     }
 
     .nav-list > li.menu-item-has-children:hover > a > span:last-child, .nav-list > li.more-links:hover > a > span:last-child {
@@ -189,7 +189,7 @@ a.prev.page-numbers,
 }
 
 .atail-team-follow a:hover {
-    color: #302b63;
+    color: #675ebf;
 }
 
 .atail-post-comments-wrapper:before {
@@ -266,13 +266,13 @@ ul ol li:before, ol ul li:before, ol li:before {
 }
 
 a.button:link, button, input[type^="submit"], input[type^="button"], button:not([data-action^="close-nav"]) {
-    background-color: #302b63;
+    background-color: #675ebf;
     color: #4d4f54;
     border: 1px solid #4d4f54;
 }
 
 a.button:hover, button:hover, input[type^="submit"]:hover, input[type^="button"]:hover, button:not([data-action^="close-nav"]):hover {
-    background-color: #302b63;
+    background-color: #675ebf;
     color: #FFF;
 }
 
@@ -330,8 +330,8 @@ button.no-button:hover {
 }
 
 .tagcloud a {
-    border-color: #302b63;
-    color: #302b63;
+    border-color: #675ebf;
+    color: #675ebf;
 }
 
 .atail-dark-footer .tagcloud a {
@@ -340,17 +340,17 @@ button.no-button:hover {
 }
 
 .atail-dark-footer .tagcloud a:hover {
-    background-color: #302b63;
-    border-color: #302b63;
+    background-color: #675ebf;
+    border-color: #675ebf;
 }
 
 .tagcloud a:hover {
-    background-color: #302b63;
-    border-color: #302b63;
+    background-color: #675ebf;
+    border-color: #675ebf;
 }
 
 #today {
-    background-color: #302b63;
+    background-color: #675ebf;
     color: #FFF;
 }
 
@@ -524,7 +524,7 @@ div.cs-select .cs-options ul {
 }
 
 .preview-article-header > h2 > a:hover {
-    color: #302b63;
+    color: #675ebf;
 }
 .recentcomments a {
     display: inline !important;
