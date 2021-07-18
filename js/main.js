@@ -5639,7 +5639,7 @@
 
 	      this.isOpened = true;
 
-	      (0, _promiseAjax.httpGet)('jsons/atail_get_all_projects/all_projects.html', target).then(function (data) {
+	      (0, _promiseAjax.httpGet)('jsons/atail_get_all_projects/all_index.html', target).then(function (data) {
 
 	        _global2.default.main.classList.add('all-projects-loading');
 

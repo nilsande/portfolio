@@ -39,7 +39,7 @@
 
     <header class="atail-header">
         <div class=" container-fluid ">
-            <div class="logo  atail-logo-portrait">
+            <div class="logo atail-logo-portrait">
                 <a href="index.html">
                     <span class="atail-text-logo">
                         <img src="img/logo.svg" alt="">
@@ -73,7 +73,8 @@
                     <li class="menu-item col-xs-2 ">
                         <a href="about.html"><span>About</span></a>
                     </li>
-                    <li class="menu-item current-menu-item current_page_item col-xs-4 ">
+
+                    <li class="menu-item col-xs-4 ">
                         <a href="contact.html"><span>Contact</span></a>
                     </li>
                 </ol>
@@ -81,30 +82,65 @@
         </div>
     </header>
 
+<!--     <div class="intro-top-text">
+        <p><b class="top-text-hor-line"></b> Nils Andersson Portfolio<b class="top-text-ver-line">Digital Creative</p>
+    </div> -->
+
     <main>
 
         <div class="main-scroll">
 
-            <div class="row ">
-                <div class="col-md-2 "></div>
-                <div class="col-md-4 no-padding-left">
-                    <h2>Don't be a<br>stranger</h2>
+            <div class="row-col-12">
+                <div class="col-lg-push-3 col-sm-4 col-sm-push-3 intro-title">
+                    <h2>Digital Producer based in Stockholm</h2>
                 </div>
-                <div class="col-md-4 no-padding-left">
-                    <p>
-                        Thanks for visiting my portfolio site. If you need to, contact me directly and I’ll come back to you as soon as possible.                    </p>
-                        <a href = "mailto: nils.andersson@hyperisland.se" class="text2"> Send me an email &#8599;</a>
-                    </div>
-
             </div>
 
-            <figure class="figure-extended " style="
-            margin-bottom: 0px;
-        "> 
-                <img src="img/about/figure@2x.png"
-                     alt="Picture of Nils">
-            </figure>
+            <div class="row intro-demo-wrapper">
 
+                <div class="col-sm-4 no-padding">
+                    <a class="intro-demo" target="_blank" href="/projects.html">
+                        <div class="intro-demo-image">
+                            <img src="/img/tawny/header.png">
+                        </div>
+                        <span class="intro-demo-count">1</span>
+                        <div class="intro-demo-content">
+                            <h5>Projects</h5>
+                            <span class="open-full-post"><span>View more</span></span>
+                        </div>
+                        <span class="intro-demo-overlay"></span>
+                    </a>
+                </div>
+
+                <div class="col-sm-4 no-padding">
+                    <a class="intro-demo" target="_blank" href="/case-studies.html">
+                        <div class="intro-demo-image">
+                            <img src="/img/tawny/logomockup.png">
+                            </div>
+                        <span class="intro-demo-count">2</span>
+                        <div class="intro-demo-content">
+                            <h5>Case Studies</h5>
+                            <span class="open-full-post"><span>View more</span></span>
+                        </div>
+                        <span class="intro-demo-overlay"></span>
+                    </a>
+                </div>
+
+                <div class="col-sm-4 no-padding">
+                    <a class="intro-demo" target="_blank" href="/about.html">
+                        <div class="intro-demo-image">
+                            <img src="/img/about/figure.png">
+                            </div>
+                        <span class="intro-demo-count">3</span>
+                        <div class="intro-demo-content">
+                            <h5>About Me</h5>
+                            <span class="open-full-post"><span>View more</span></span>
+                        </div>
+                        <span class="intro-demo-overlay"></span>
+                    </a>
+                </div>
+
+            </div>
 
         </div> <!-- main-scroll -->
 
@@ -142,51 +178,10 @@
 
 </div> <!-- atail -->
 
-
 <script type='text/javascript' src="js/jquery-3.1.1.min.js"></script>
 <script type='text/javascript' src='js/main.js'></script>
 <script type='text/javascript' src='js/jssocials.js'></script>
 <script type='text/javascript' src='js/retina.js'></script>
-
-<!-- Init Google Maps API -->
-<!-- https://developers.google.com/maps/documentation/javascript/tutorial -->
-<script>
-    function initMap() {
-
-        // Specify features and elements to define styles.
-        var styleArray = [
-            {
-                featureType: "all",
-                stylers: [
-                    { saturation: -100 }
-                ]
-            }
-        ];
-
-        var myLatLng = {lat: -34.397, lng: 150.644};
-
-        // Create a map object and specify the DOM element for display.
-        var map = new google.maps.Map(document.getElementById('map'), {
-            center: myLatLng,
-            scrollwheel: false,
-            draggable: false,
-            styles: styleArray,
-            zoom: 8
-        });
-
-        // Create a marker and set its position.
-        // uncomment if you want use it
-//        var marker = new google.maps.Marker({
-//            map: map,
-//            position: myLatLng,
-//            title: 'Hello World!'
-//        });
-    }
-</script>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTRpEm6exIs_F5dgG1dCftSpt_AY_k7EU&callback=initMap"></script>
-
-
 
 </body>
 </html>

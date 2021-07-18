@@ -287,7 +287,7 @@ class AllProjects {
 
     this.isOpened = true;
 
-    httpGet( 'jsons/atail_get_all_projects/all_projects.html', target ).then( data => {
+    httpGet( 'jsons/atail_get_all_projects/all_index.html', target ).then( data => {
 
       GlobalVariables.main.classList.add( 'all-projects-loading' );
 
