@@ -86,7 +86,7 @@ a, .post-content-info > a, .post-content-likes .blog-count-likes, .post-content-
 }
 
 .atail-slider h1 a:hover, .atail-slider-item .blog-author span:hover, .atail-slider-item .blog-date span:hover, a:hover, .side-content a:hover, .blog-category a:hover, a.blog-date:hover, .content-info-date a:hover, .post-content-info > a.blog-category-link:hover, .post-content-likes .blog-count-likes:hover, .post-content-tags a[rel="tag"]:hover, .post-sidebar .widget li a:hover {
-    color: #675ebf;
+    color: #302b63;
 }
 
 .comment-navigation > h2,

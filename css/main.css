@@ -6723,7 +6723,7 @@ main .main-scroll > [id^='huge_it_google'] {
     -webkit-transform: translate(50%, 100%);
             transform: translate(50%, 100%);
     opacity: 0;
-    background-color: #675ebf;
+    background: linear-gradient(25deg,#0f0c29,#302b63 100%);
   }
   .atail-header-opened nav, .atail-header-opened
   nav.row {
@@ -7235,7 +7235,7 @@ main .main-scroll > [id^='huge_it_google'] {
   .nav-list > li:hover.menu-item-has-children {
     -webkit-transition: background-color 0s linear .1s;
     transition: background-color 0s linear .1s;
-    background: linear-gradient(25deg,#0f0c29,#302b63 50%);
+    background: linear-gradient(25deg,#0f0c29,#302b63 100%);
   }
 }
 
@@ -7274,7 +7274,7 @@ main .main-scroll > [id^='huge_it_google'] {
     -webkit-transform: translateY(-200%);
             transform: translateY(-200%);
     opacity: 1;
-    background: linear-gradient(25deg,#0f0c29,#302b63 50%);  }
+    background: linear-gradient(25deg,#0f0c29,#302b63 100%);  }
   .nav-list > li > ul li {
     -webkit-transition: opacity 0.2s ease;
     transition: opacity 0.2s ease;
@@ -8405,7 +8405,7 @@ p > img {
   height: 100%;
   -webkit-transition: width .6s ease;
   transition: width .6s ease;
-  background: linear-gradient(25deg,#0f0c29,#302b63 50%);  -webkit-backface-visibility: hidden;
+  background: linear-gradient(25deg,#0f0c29,#302b63 100%);  -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
 }
 
