@@ -445,7 +445,7 @@ form textarea, form input {
 }
 
 .full-post-close:before, .full-post-close:after, .close-projects-btn.close-projects-btn-loaded:before, .close-projects-btn.close-projects-btn-loaded:after, .close-projects-btn span {
-    background-color: #363b46;
+    background-color: #000000;
 }
 
 .full-post-content {
