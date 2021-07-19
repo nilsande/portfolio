@@ -1,27 +1,9 @@
 {
 	"status": "success",
-	"title": "Spotify Music Quiz",
-	"link": "/projects/spotify-music-quiz.html",
-	"content":"The UX/UI challenge, as given by D&AD - Young Blood Awards, was to get listeners to "soundtrack" and share their life through Spotify. Our team was to build a feature within the app to help people easily share their favourite music and get people talking.",
-	"date_finish": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Finished </span><span class=\"atail-proj-date-value\">- 21 Mar 2021</span></span>",
-	"date_start": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Started </span><span class=\"atail-proj-date-value\">- 20 Mar 2021</span></span>",
-	"thumbnail": "<img width=\"1200\" height=\"911\" src=\"img/hubista.png\" alt=\"pexels-photo-69494\" />",
-	"thumbnail_url": "img/hubista.png",
-	"token": "865fc8f5ec",
-	"slides": [
-		{
-			"src": {
-				"img": "img/spotify/spotify.png",
-				"title": "Mr Neely",
-				"text": "Hello World",
-				"fit": "cover"
-			},
-			"fit": "cover",
-			"type": "image"
-		},
-		{
-			"src": "https://player.vimeo.com/video/573913258", 
-			"type": "video"
-		}
-	]
+	"title": "Hyper Island Lead Quiz",
+	"link": "/projects/hyper-island-lead-quiz.html",
+	"content": "Using growth hacking methodology to identify areas of improvement and create solutions in order to increase our client’s leads with a clear goal of increasing the amount of course participants.",
+	"date_finish": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Finished </span><span class=\"atail-proj-date-value\">- 2 Feb 2021</span></span>",
+	"date_start": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Started </span><span class=\"atail-proj-date-value\">- 19 Jan 2021</span></span>",
+	"token": "5f3534f00d"
 }
