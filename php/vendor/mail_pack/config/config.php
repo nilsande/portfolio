@@ -9,7 +9,7 @@
 			'to'      => '',
 			'subject' => 'your subject',
 			'headers' => "From: (Your site) \r\n Content-type: text/html; charset=utf-8",
-			'SmtpHost'   => 'smtp.gmail.com',
+			'SmtpHost'   => 'nils.andersson@hyperisland.se',
 			'SmtpPort'   => '587',
 			'SmtpUser'   => '',
 			'SmtpPass'   => '',
