@@ -6,13 +6,13 @@
 		        'gateway' => 'file', // allow values are "mailchimp" or "file"
 			],
 		'contact'   => [
-			'to'      => 'nils.andersson@gmail.com',
+			'to'      => 'nils.andersson@hyperisland.se',
 			'subject' => 'your subject',
 			'headers' => "From: (Your site) \r\n Content-type: text/html; charset=utf-8",
 			'SmtpHost'   => 'smtp.gmail.com',
 			'SmtpPort'   => '587',
-			'SmtpUser'   => '',
-			'SmtpPass'   => '',
+			'SmtpUser'   => 'nils.andersson@hyperisland.se',
+			'SmtpPass'   => 'smurfen91',
 			'SmtpSecure' => 'tls',
 			'debug' => false,
 		],
