@@ -6,10 +6,10 @@
 		        'gateway' => 'file', // allow values are "mailchimp" or "file"
 			],
 		'contact'   => [
-			'to'      => '',
+			'to'      => 'nils.andersson@gmail.com',
 			'subject' => 'your subject',
 			'headers' => "From: (Your site) \r\n Content-type: text/html; charset=utf-8",
-			'SmtpHost'   => 'nils.andersson@hyperisland.se',
+			'SmtpHost'   => 'smtp.gmail.com',
 			'SmtpPort'   => '587',
 			'SmtpUser'   => '',
 			'SmtpPass'   => '',
