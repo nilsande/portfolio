@@ -7307,7 +7307,7 @@ ul.no-list li:before {
 
 ol li:before,
 ul li:before {
-  margin-left: 8px;
+  margin-left: 0px;
   margin-right: 27px;
   opacity: .5;
 }
@@ -7343,10 +7343,10 @@ ul > li:before {
   content: '';
   display: inline-block;
   width: 5px;
-  height: 3px;
+  height: 0px;
   background-color: #a9acb5;
   vertical-align: middle;
-  margin-left: 14px;
+  margin-left: 0px;
 }
 
 .atail-comment-content ul > li:before {
@@ -12575,4 +12575,66 @@ main .main-scroll .intro-demo-wrapper {
 
 .display-none {
   display: none;
+}
+
+@-webkit-keyframes load {
+  0% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes load {
+  0% {
+    stroke-dashoffset: 0;
+  }
+}
+.progress {
+  position: relative;
+  display: inline-block;
+  padding: 0;
+  text-align: center;
+  padding-top: 30px;
+}
+.progress > li {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  color: #93a2ac;
+  font-weight: 100;
+  margin: 2rem;
+}
+.progress > li:before {
+  content: attr(data-name);
+  position: absolute;
+  width: 100%;
+  bottom: -2rem;
+  font-weight: 400;
+}
+.progress > li:after {
+  content: attr(data-percent);
+  position: absolute;
+  width: 102%;
+  top: 4rem;
+  left: 0;
+  font-size: 2rem;
+  text-align: center;
+
+}
+.progress svg {
+  width: 10rem;
+  height: 10rem;
+}
+.progress svg:nth-child(2) {
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: rotate(-90deg);
+}
+.progress svg:nth-child(2) path {
+  fill: none;
+  stroke-width: 25;
+  stroke-dasharray: 629;
+  stroke: #fff;
+  opacity: 0.9;
+  -webkit-animation: load 10s;
+          animation: load 10s;
 }
